@@ -1,0 +1,4 @@
+Library seems to be correct. It is organized well and comments are available where they are necessary. 
+The library seems to have everything it needs, as it has the properties and the constructor. 
+The only thing I would change is to make the percentComputerJbs to be a double instead of an integer, because a percentage is 
+often times not a whole number.
