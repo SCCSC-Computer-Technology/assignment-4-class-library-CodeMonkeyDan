@@ -1,0 +1,11 @@
+Q1 - Is the code generally readable and well-documented?
+A1 – Yes, the code is readable and pretty straightforward. It is not really documented much, but since it is a simple class with properties and a constructor, it was still easy to understand. Everything is laid out clearly and I could tell what each variable was for. Some comments could help, but it was not confusing.
+
+Q2 – Did you find any software defects?
+A2- I did not see any actual defects in this code. It is just a class holding data, so there is not really anything in it that would break. The only thing I noticed is everything is lowercase for the property names, which is a little different from what I usually see, but that is not really a defect. So overall nothing major stood out.
+
+Q3 - What was one way that their solution differed from yours?
+A3 – Their solution differed from mine because they used a constructor to set all the values when the object is created. Mine was a little different since I used properties and set them after creating the object. Both ways work, but theirs felt more structured when creating a new state.
+
+Q4 – Do you have any other constructive comments for the author?
+A4 – I would say maybe follow standard naming conventions with capital letters for properties just to keep it consistent with most C# code. Also adding a few comments would help explain things a little more. Other than that, it was simple and easy to understand.
